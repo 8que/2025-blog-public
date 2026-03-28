@@ -1,8 +1,8 @@
 {
 	"meta": {
-		"title": "YYsuni",
-		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
-		"username": "Suni"
+		"title": "素羽集",
+		"description": "小白雀的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
+		"username": "小白雀"
 	},
 	"theme": {
 		"colorBrand": "#de4331",
@@ -58,7 +58,7 @@
 		{
 			"id": "email",
 			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"value": "bqaiueeee@gmail.com",
 			"label": "",
 			"order": 1
 		}
@@ -72,7 +72,7 @@
 	"hatFlipped": false,
 	"enableChristmas": false,
 	"beian": {
-		"text": "",
+		"text": "黔ICP备2025056581号",
 		"link": ""
 	}
 }
